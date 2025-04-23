@@ -101,7 +101,8 @@ npm install
 npm start
 ```
 
+
 The application will be available at http://localhost:3000
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=5A03FC&center=true&vCenter=true&width=600&lines=Thank+you+for+your+interest!" alt="Thank you for your interest!" /> </p> ```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=5A03FC&center=true&vCenter=true&width=600&lines=Thank+you+for+your+interest!" alt="Thank you for your interest!" /> </p> 
 </div>
