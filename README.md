@@ -4,7 +4,7 @@
 
 <div id="russian-version">
 
-# User-Viewer
+# 🧩User-Viewer
 
 Современное веб-приложение для просмотра и управления данными пользователей, построенное с использованием Next.js, TypeScript и Tailwind CSS.
 
@@ -58,7 +58,7 @@ npm start
 
 <div id="english-version">
 
-# User-Viewer
+# 🧩User-Viewer
 
 A modern web application for viewing and managing user data, built with Next.js, TypeScript, and Tailwind CSS.
 
